@@ -1,0 +1,3 @@
+Hundeloh workshop demo v1
+2026-10-21
+Website source SHA256: 389eb1c71a4179fa0055dff190f1b0c9bfd9dd7ddffbb5e5fb431468c80bbf91
