@@ -1,4 +1,4 @@
-Hundeloh workshop demo v2
+Hundeloh workshop demo v2.1
 2026-10-22
-Website source SHA256: b2c49e2ae957a7037fce30da354e96893b3530e9464fe32d1b83173006d2c439
+Website source SHA256: ce8e8b0bc6bf7eb1366d6f5f9defb8fc95a3583f5b665153b9f488f5da3f1ae8
 Hero image SHA256: e3ca8139443ec6d8312132377734e7f45d9f7ec0a217132910dcab1f0fba5534
